@@ -1,0 +1,450 @@
+45000 11703.15986144425 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0956324897959 188.06809258460999
+TwoStepSampler break after 865 iterations
+baseline 0.0955625206203 5.762949705123901
+TwoStepSampler break after 268 iterations
+is_sampler 0.0957089750398 4.177969932556152
+TwoStepSampler break after 268 iterations
+big_loan_sampler 0.0957089750398 4.203918218612671
+45000 11862.060984902828 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0292742040816 189.9213342666626
+TwoStepSampler break after 206 iterations
+baseline 0.0293719806763 1.1598005294799805
+TwoStepSampler break after 1767 iterations
+is_sampler 0.0293713639302 31.083046436309814
+TwoStepSampler break after 1767 iterations
+big_loan_sampler 0.0293713639302 31.232000589370728
+45000 50800.87847039688 1
+TwoStepSampler break after 3499 iterations
+etalon 0.0800455510204 190.0565414428711
+TwoStepSampler break after 1589 iterations
+baseline 0.0801275831087 11.940377950668335
+TwoStepSampler break after 139 iterations
+is_sampler 0.0800816326531 2.122675895690918
+TwoStepSampler break after 619 iterations
+big_loan_sampler 0.0799544492283 10.035626411437988
+45000 12085.716556985604 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00609812244898 190.52286577224731
+TwoStepSampler break after 101 iterations
+baseline 0.00610644257703 0.5692234039306641
+TwoStepSampler break after 120 iterations
+is_sampler 0.006186540732 1.8727681636810303
+TwoStepSampler break after 120 iterations
+big_loan_sampler 0.006186540732 1.8492894172668457
+45000 11778.6168611325 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00997959183673 192.88432359695435
+TwoStepSampler break after 109 iterations
+baseline 0.0098961038961 0.5892496109008789
+TwoStepSampler break after 1808 iterations
+is_sampler 0.00988549316908 31.890987157821655
+TwoStepSampler break after 1808 iterations
+big_loan_sampler 0.00988549316908 32.0739266872406
+45000 51037.03151342423 2
+TwoStepSampler break after 3499 iterations
+etalon 0.282048408163 191.03585982322693
+TwoStepSampler break after 172 iterations
+baseline 0.282097440132 0.9501025676727295
+TwoStepSampler break after 246 iterations
+is_sampler 0.282105263158 3.831453561782837
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.28198701465 1.5500683784484863
+45000 49281.19187331515 1
+TwoStepSampler break after 3499 iterations
+etalon 0.00515624489796 189.74991512298584
+TwoStepSampler break after 353 iterations
+baseline 0.00525423728814 2.132561206817627
+TwoStepSampler break after 264 iterations
+is_sampler 0.00505660377358 4.064132452011108
+TwoStepSampler break after 206 iterations
+big_loan_sampler 0.00508377687123 3.1840014457702637
+45000 12457.51085711224 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00103534693878 192.61372756958008
+TwoStepSampler break after 124 iterations
+baseline 0.000937142857143 0.6689190864562988
+TwoStepSampler break after 166 iterations
+is_sampler 0.00112917023097 2.532557725906372
+TwoStepSampler break after 166 iterations
+big_loan_sampler 0.00112917023097 2.538534641265869
+45000 50618.92328768017 2
+TwoStepSampler break after 3499 iterations
+etalon 0.0984180408163 191.13111805915833
+TwoStepSampler break after 105 iterations
+baseline 0.0985175202156 0.569291353225708
+TwoStepSampler break after 101 iterations
+is_sampler 0.0983193277311 1.5321242809295654
+TwoStepSampler break after 102 iterations
+big_loan_sampler 0.0983230980294 1.5733466148376465
+45000 11777.824939306609 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0118102040816 191.17734479904175
+TwoStepSampler break after 1821 iterations
+baseline 0.0119099890231 14.538560390472412
+TwoStepSampler break after 101 iterations
+is_sampler 0.0118767507003 1.5881681442260742
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.0118767507003 1.5457756519317627
+45000 12532.336284460092 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00855526530612 190.00589299201965
+TwoStepSampler break after 103 iterations
+baseline 0.00848901098901 0.5495822429656982
+TwoStepSampler break after 1075 iterations
+is_sampler 0.00846521508232 18.212811708450317
+TwoStepSampler break after 1075 iterations
+big_loan_sampler 0.00846521508232 17.962695360183716
+45000 13285.383014955281 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00934963265306 192.27315139770508
+TwoStepSampler break after 976 iterations
+baseline 0.00944874981722 6.625937223434448
+TwoStepSampler break after 105 iterations
+is_sampler 0.00935309973046 1.632310390472412
+TwoStepSampler break after 105 iterations
+big_loan_sampler 0.00935309973046 1.6498448848724365
+45000 50643.97621341594 1
+TwoStepSampler break after 3499 iterations
+etalon 0.0156970612245 190.63538193702698
+TwoStepSampler break after 635 iterations
+baseline 0.0156019766397 4.053094863891602
+TwoStepSampler break after 129 iterations
+is_sampler 0.0156703296703 2.018951654434204
+TwoStepSampler break after 180 iterations
+big_loan_sampler 0.0156723453383 2.781041383743286
+45000 50705.22289380125 1
+TwoStepSampler break after 3499 iterations
+etalon 0.0173591020408 190.297443151474
+TwoStepSampler break after 169 iterations
+baseline 0.0172773109244 0.9304320812225342
+TwoStepSampler break after 128 iterations
+is_sampler 0.0174529346622 1.9481446743011475
+TwoStepSampler break after 450 iterations
+big_loan_sampler 0.0172657140368 7.219467639923096
+45000 11939.942353306747 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0301582040816 190.38882756233215
+TwoStepSampler break after 118 iterations
+baseline 0.0300600240096 0.6448345184326172
+TwoStepSampler break after 257 iterations
+is_sampler 0.0302436323367 4.016502141952515
+TwoStepSampler break after 257 iterations
+big_loan_sampler 0.0302436323367 3.998931407928467
+45000 12061.377194455617 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0080933877551 190.00911831855774
+TwoStepSampler break after 193 iterations
+baseline 0.0080117820324 1.0789730548858643
+TwoStepSampler break after 888 iterations
+is_sampler 0.00800899887514 14.538579225540161
+TwoStepSampler break after 888 iterations
+big_loan_sampler 0.00800899887514 14.552394151687622
+45000 49375.29646187449 1
+TwoStepSampler break after 3499 iterations
+etalon 0.011892 189.8830225467682
+TwoStepSampler break after 347 iterations
+baseline 0.011986863711 2.0143349170684814
+TwoStepSampler break after 101 iterations
+is_sampler 0.0119327731092 1.5302693843841553
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.0118556563369 1.5458087921142578
+45000 48736.71346276215 1
+TwoStepSampler break after 3499 iterations
+etalon 0.0226150204082 189.54401302337646
+TwoStepSampler break after 102 iterations
+baseline 0.0225520110957 0.5389361381530762
+TwoStepSampler break after 101 iterations
+is_sampler 0.0226610644258 1.5326769351959229
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.0226187282956 1.5474622249603271
+45000 12397.154807188046 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0340603265306 189.69537115097046
+TwoStepSampler break after 104 iterations
+baseline 0.0340136054422 0.5662662982940674
+TwoStepSampler break after 150 iterations
+is_sampler 0.0339640491958 2.3354954719543457
+TwoStepSampler break after 150 iterations
+big_loan_sampler 0.0339640491958 2.3565070629119873
+45000 12956.736239007876 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00288253061224 192.33420181274414
+TwoStepSampler break after 115 iterations
+baseline 0.0028078817734 0.6166017055511475
+TwoStepSampler break after 509 iterations
+is_sampler 0.00298039215686 8.067683219909668
+TwoStepSampler break after 509 iterations
+big_loan_sampler 0.00298039215686 8.121703624725342
+45000 50559.78854369394 2
+TwoStepSampler break after 3499 iterations
+etalon 0.00758228571429 190.36416482925415
+TwoStepSampler break after 1017 iterations
+baseline 0.0074824586023 6.807608127593994
+TwoStepSampler break after 107 iterations
+is_sampler 0.00748677248677 1.6201775074005127
+TwoStepSampler break after 219 iterations
+big_loan_sampler 0.00766442766895 3.4041380882263184
+45000 12364.582384713596 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0011333877551 189.78582191467285
+TwoStepSampler break after 169 iterations
+baseline 0.0012268907563 0.9483683109283447
+TwoStepSampler break after 257 iterations
+is_sampler 0.0012292358804 3.9987900257110596
+TwoStepSampler break after 257 iterations
+big_loan_sampler 0.0012292358804 4.000833511352539
+45000 50829.386991883934 2
+TwoStepSampler break after 3499 iterations
+etalon 0.0521231020408 190.56169152259827
+TwoStepSampler break after 2442 iterations
+baseline 0.0520273668207 20.930078268051147
+TwoStepSampler break after 343 iterations
+is_sampler 0.0520764119601 5.354059219360352
+TwoStepSampler break after 117 iterations
+big_loan_sampler 0.0521817783485 1.7811508178710938
+45000 12583.263759368638 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00213069387755 189.28153896331787
+TwoStepSampler break after 193 iterations
+baseline 0.0020324005891 1.0619516372680664
+TwoStepSampler break after 161 iterations
+is_sampler 0.00222222222222 2.4533369541168213
+TwoStepSampler break after 161 iterations
+big_loan_sampler 0.00222222222222 2.4605109691619873
+45000 12616.250330970386 0
+TwoStepSampler break after 3499 iterations
+etalon 0.011138122449 190.71369528770447
+TwoStepSampler break after 565 iterations
+baseline 0.0112367491166 3.4612579345703125
+TwoStepSampler break after 302 iterations
+is_sampler 0.0110608203678 4.715046405792236
+TwoStepSampler break after 302 iterations
+big_loan_sampler 0.0110608203678 4.733385801315308
+45000 12840.606010760732 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00510097959184 190.8138792514801
+TwoStepSampler break after 112 iterations
+baseline 0.0051580278129 0.6008913516998291
+TwoStepSampler break after 101 iterations
+is_sampler 0.00512605042017 1.551372766494751
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.00512605042017 1.5622382164001465
+45000 50658.9526300776 1
+TwoStepSampler break after 3499 iterations
+etalon 0.050888 190.4152262210846
+TwoStepSampler break after 127 iterations
+baseline 0.0508035714286 0.6854584217071533
+TwoStepSampler break after 262 iterations
+is_sampler 0.0508310700706 4.064297199249268
+TwoStepSampler break after 134 iterations
+big_loan_sampler 0.0509486380984 2.0688247680664062
+45000 51742.06633085234 2
+TwoStepSampler break after 3499 iterations
+etalon 0.0308826122449 189.99259567260742
+TwoStepSampler break after 102 iterations
+baseline 0.0309015256588 0.55194091796875
+TwoStepSampler break after 120 iterations
+is_sampler 0.0308382526564 1.836357593536377
+TwoStepSampler break after 274 iterations
+big_loan_sampler 0.0307924635617 4.282002210617065
+45000 50958.25717433302 1
+TwoStepSampler break after 3499 iterations
+etalon 0.0551777142857 191.10195994377136
+TwoStepSampler break after 126 iterations
+baseline 0.0550956130484 0.6966278553009033
+TwoStepSampler break after 3026 iterations
+is_sampler 0.0552739629053 58.43591833114624
+TwoStepSampler break after 133 iterations
+big_loan_sampler 0.0551600695424 2.0488202571868896
+45000 51147.90445328556 2
+TwoStepSampler break after 3499 iterations
+etalon 0.025436244898 191.3361473083496
+TwoStepSampler break after 159 iterations
+baseline 0.0254107142857 0.8778133392333984
+TwoStepSampler break after 196 iterations
+is_sampler 0.0253517041334 3.0500571727752686
+TwoStepSampler break after 103 iterations
+big_loan_sampler 0.0253631056067 1.5808496475219727
+45000 12870.132273046207 0
+TwoStepSampler break after 3499 iterations
+etalon 0.000908326530612 191.48908519744873
+TwoStepSampler break after 101 iterations
+baseline 0.000868347338936 0.5369718074798584
+TwoStepSampler break after 125 iterations
+is_sampler 0.000816326530612 1.913151741027832
+TwoStepSampler break after 125 iterations
+big_loan_sampler 0.000816326530612 1.9139125347137451
+45000 49915.34328490568 2
+TwoStepSampler break after 3499 iterations
+etalon 0.0854993469388 189.90558671951294
+TwoStepSampler break after 9999 iterations
+baseline 0.086062 182.90270233154297
+TwoStepSampler break after 110 iterations
+is_sampler 0.0855083655084 1.6752917766571045
+TwoStepSampler break after 103 iterations
+big_loan_sampler 0.085597051364 1.5625464916229248
+45000 48841.894026147624 1
+TwoStepSampler break after 3499 iterations
+etalon 0.0160196734694 189.38971185684204
+TwoStepSampler break after 117 iterations
+baseline 0.0160774818402 0.6253414154052734
+TwoStepSampler break after 3273 iterations
+is_sampler 0.0159211100445 63.53778004646301
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.0160568440995 1.5384159088134766
+45000 12117.43721477583 0
+TwoStepSampler break after 3499 iterations
+etalon 0.000165142857143 189.06195092201233
+TwoStepSampler break after 101 iterations
+baseline 0.000196078431373 0.535576343536377
+TwoStepSampler break after 101 iterations
+is_sampler 0.000196078431373 1.5356645584106445
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.000196078431373 1.533905029296875
+45000 11680.407878318028 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00171020408163 189.63955688476562
+TwoStepSampler break after 407 iterations
+baseline 0.0016106442577 2.477666139602661
+TwoStepSampler break after 101 iterations
+is_sampler 0.00176470588235 1.5431649684906006
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.00176470588235 1.600555181503296
+45000 11898.322833966162 0
+TwoStepSampler break after 3499 iterations
+etalon 0.037260244898 189.05142951011658
+TwoStepSampler break after 113 iterations
+baseline 0.0371679197995 0.6019864082336426
+TwoStepSampler break after 225 iterations
+is_sampler 0.037206068268 3.498370885848999
+TwoStepSampler break after 225 iterations
+big_loan_sampler 0.037206068268 3.482412815093994
+45000 12006.25867048582 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0133710204082 189.68514323234558
+TwoStepSampler break after 8036 iterations
+baseline 0.0134709113209 126.28327989578247
+TwoStepSampler break after 106 iterations
+is_sampler 0.0132710280374 1.6058554649353027
+TwoStepSampler break after 106 iterations
+big_loan_sampler 0.0132710280374 1.6099956035614014
+45000 12542.933019632499 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0417271020408 189.7342014312744
+TwoStepSampler break after 109 iterations
+baseline 0.0416363636364 0.6787371635437012
+TwoStepSampler break after 101 iterations
+is_sampler 0.0417086834734 1.5352938175201416
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.0417086834734 1.5550153255462646
+45000 50283.90121491056 2
+TwoStepSampler break after 3499 iterations
+etalon 0.247823755102 191.6886305809021
+TwoStepSampler break after 380 iterations
+baseline 0.247896512936 2.490128993988037
+TwoStepSampler break after 113 iterations
+is_sampler 0.247844611529 1.7436816692352295
+TwoStepSampler break after 101 iterations
+big_loan_sampler 0.247749935721 1.5422101020812988
+45000 49803.61150533891 2
+TwoStepSampler break after 3499 iterations
+etalon 0.111390204082 190.44354605674744
+TwoStepSampler break after 115 iterations
+baseline 0.111379310345 0.6193037033081055
+TwoStepSampler break after 9999 iterations
+is_sampler 0.108462857143 285.0233247280121
+TwoStepSampler break after 649 iterations
+big_loan_sampler 0.111399595281 10.568325996398926
+45000 49779.73820537281 1
+TwoStepSampler break after 3499 iterations
+etalon 0.0046227755102 189.3443648815155
+TwoStepSampler break after 101 iterations
+baseline 0.00467787114846 0.5336184501647949
+TwoStepSampler break after 365 iterations
+is_sampler 0.00452771272443 5.702624082565308
+TwoStepSampler break after 123 iterations
+big_loan_sampler 0.00452966907955 1.887392520904541
+45000 12584.611981873715 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0436951836735 189.16457390785217
+TwoStepSampler break after 1913 iterations
+baseline 0.0435990446335 15.269282102584839
+TwoStepSampler break after 133 iterations
+is_sampler 0.0437739872068 2.0333409309387207
+TwoStepSampler break after 133 iterations
+big_loan_sampler 0.0437739872068 2.059535264968872
+45000 11833.38896373979 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0314460408163 189.23425102233887
+TwoStepSampler break after 219 iterations
+baseline 0.0313636363636 1.2220969200134277
+TwoStepSampler break after 614 iterations
+is_sampler 0.0315400696864 9.810389995574951
+TwoStepSampler break after 614 iterations
+big_loan_sampler 0.0315400696864 9.878556251525879
+45000 12458.840106663294 0
+TwoStepSampler break after 3499 iterations
+etalon 0.00355551020408 189.5831916332245
+TwoStepSampler break after 102 iterations
+baseline 0.00346740638003 0.5419087409973145
+TwoStepSampler break after 141 iterations
+is_sampler 0.00346076458753 2.1448843479156494
+TwoStepSampler break after 141 iterations
+big_loan_sampler 0.00346076458753 2.1534714698791504
+45000 12638.248140040578 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0205856326531 190.14574098587036
+TwoStepSampler break after 1379 iterations
+baseline 0.0206832298137 10.117369651794434
+TwoStepSampler break after 490 iterations
+is_sampler 0.020680826302 7.767898797988892
+TwoStepSampler break after 490 iterations
+big_loan_sampler 0.020680826302 7.7911505699157715
+45000 12368.656034861362 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0127951836735 194.3640546798706
+TwoStepSampler break after 385 iterations
+baseline 0.0127017024426 2.305424690246582
+TwoStepSampler break after 124 iterations
+is_sampler 0.0128685714286 1.9281666278839111
+TwoStepSampler break after 124 iterations
+big_loan_sampler 0.0128685714286 1.9360401630401611
+45000 49131.72845110179 1
+TwoStepSampler break after 3499 iterations
+etalon 0.00372342857143 196.1294915676117
+TwoStepSampler break after 122 iterations
+baseline 0.00380952380952 0.6848878860473633
+TwoStepSampler break after 101 iterations
+is_sampler 0.00366946778711 1.591841220855713
+TwoStepSampler break after 178 iterations
+big_loan_sampler 0.00362504733903 2.8618323802948
+45000 50472.843956033495 2
+TwoStepSampler break after 3499 iterations
+etalon 0.0409135510204 194.45043182373047
+TwoStepSampler break after 1155 iterations
+baseline 0.0410009886307 8.047866582870483
+TwoStepSampler break after 144 iterations
+is_sampler 0.0408275862069 2.2015438079833984
+TwoStepSampler break after 105 iterations
+big_loan_sampler 0.0409675537669 1.6095306873321533
+45000 51393.989545117816 1
+TwoStepSampler break after 3499 iterations
+etalon 0.0730765714286 190.37008929252625
+TwoStepSampler break after 2095 iterations
+baseline 0.0729784623773 17.1577889919281
+TwoStepSampler break after 172 iterations
+is_sampler 0.0731131296449 2.6583127975463867
+TwoStepSampler break after 106 iterations
+big_loan_sampler 0.0729986374992 1.6158077716827393
+45000 12527.567833282486 0
+TwoStepSampler break after 3499 iterations
+etalon 0.0201090612245 190.17368841171265
+TwoStepSampler break after 410 iterations
+baseline 0.0200347584289 2.4501078128814697
+TwoStepSampler break after 139 iterations
+is_sampler 0.0201632653061 2.1374595165252686
+TwoStepSampler break after 139 iterations
+big_loan_sampler 0.0201632653061 2.138577461242676
